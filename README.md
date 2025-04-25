@@ -17,7 +17,7 @@ An interactive web-based graph visualizer built with JavaScript, HTML, and CSS. 
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript 
 
 ---
 
