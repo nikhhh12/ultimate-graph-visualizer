@@ -8,7 +8,7 @@ Live: https://ultimate-visualizer.netlify.app/
 ## Features
 
 - Create nodes and edges dynamically
-- Visualize algorithms (coming soon)
+- Visualize algorithms 
 - Drag-and-drop interface
 - Start and end node customization (via SVGs)
 
